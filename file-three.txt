@@ -1,1 +1,1 @@
-I edited this file to test
+I was edited this file to test git pull
